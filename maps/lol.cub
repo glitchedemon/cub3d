@@ -1,7 +1,7 @@
-NO          /nfs/homes/mneri/Projects/cub3d/texture/wall_N.xpm
-SO          /nfs/homes/mneri/Projects/cub3d/texture/wall_S.xpm
-WE         /nfs/homes/mneri/Projects/cub3d/texture/wall_W.xpm
-EA        /nfs/homes/mneri/Projects/cub3d/texture/wall_E.xpm
+NO           texture/wall_N.xpm
+SO           texture/wall_S.xpm
+WE         texture/wall_W.xpm
+EA        texture/wall_E.xpm
 F     220,100,0
 C 220,30,0
 
